@@ -24,6 +24,7 @@ Genom att kombinera dessa tekniker kan vi bygga kraftfulla och användarvänliga
 
 ### Lektionsrepon
 
+* [8 april](https://github.com/fu-react-webb25/week-15-lecture-8-april)
 
 ### Filmer
 
@@ -36,6 +37,7 @@ Genom att kombinera dessa tekniker kan vi bygga kraftfulla och användarvänliga
 
 ### Övningar 
 
+* [Router Bootcamp](https://github.com/fu-react-webb25/week-15-exercise-routing/tree/main)
 
 
 
