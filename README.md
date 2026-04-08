@@ -22,7 +22,7 @@ Genom att kombinera dessa tekniker kan vi bygga kraftfulla och användarvänliga
 ### Inspelade föreläsningar
 
 * [Routing, 8 april](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBl-1HtEWErS5VHp_HW9zzIAZSjZsgShmC3CX_LXfuYeB4?e=0V73Av)
-* [Routing MyPokeDB, 8 april]()
+* [Routing MyPokeDB, 8 april](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQAFUVcC60NDRYMbmj_bRKPSASXibl-uEZ3mT7zHiiwCstM?e=rScsQw)
 
 ### Lektionsrepon
 
