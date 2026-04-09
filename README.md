@@ -27,6 +27,7 @@ Genom att kombinera dessa tekniker kan vi bygga kraftfulla och användarvänliga
 ### Lektionsrepon
 
 * [8 april](https://github.com/fu-react-webb25/week-15-lecture-8-april)
+* [9 april](https://github.com/fu-react-webb25/week-15-lecture-9-april)
 
 ### Filmer
 
